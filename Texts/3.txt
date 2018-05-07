@@ -1,0 +1,3 @@
+Bankautomat:
+Automat, an dem bestimmte Bankgeschäfte (wie Geldabhebungen, Überweisungen u. Ä.) erledigt werden können
+[Quelle: Duden]
