@@ -1,1 +1,12 @@
-Ein Geldautomat, Geldausgabeautomat (GAA), Bankautomat, Bankomat, Bancomat oder auch wie im Englischen ATM (Automated Teller Machine) ist ein technisches Gerät zur Bargeldabhebung in Selbstbedienung bei Geld- und Kreditinstituten vom eigenen Giro- oder Kreditkartenkonto (siehe auch Electronic Cash). Mittlerweile kann bei vielen Automaten auch eingezahlt werden, und bei einigen ist das auch in Fremdwährungen möglich. Der Geldausgabeautomat war – noch vor dem PC – das erste Computerterminal, das breiten Bevölkerungsschichten weltweit zugänglich war.  [Quelle:Wikipedia]
+Ein Geldautomat, Geldausgabeautomat (GAA), Bankautomat, Bankomat, Bancomat oder auch wie im Englischen ATM (Automated Teller Machine) ist ein technisches Gerät zur 
+Bargeldabhebung in Selbstbedienung bei Geld- und Kreditinstituten vom eigenen Giro- oder Kreditkartenkonto (siehe auch Electronic Cash). 
+Mittlerweile kann bei vielen Automaten auch eingezahlt werden, und bei einigen ist das auch in Fremdwährungen möglich. Der Geldausgabeautomat war – noch vor dem PC –
+ das erste Computerterminal, das breiten Bevölkerungsschichten weltweit zugänglich war.  
+In Deutschland hat sich der Begriff Geld(ausgabe)automat durchgesetzt. In Österreich ist der Begriff Bankautomat bzw. Bankomat etabliert, in der Schweiz und in Liechtenstein wird der Begriff Bancomat für Automaten, deren Betreiber eine Bank ist, sowie Postomat für Automaten der Post verwendet. 
+Im englischsprachigen Raum (USA, Australien) ist die Bezeichnung Automated Teller Machine (englisch teller ‚Schalterbeamter‘) oder Automatic Teller Machine (ATM) oder wie in Kanada Automated Banking Machine (ABM) üblich. Gebräuchlich sind auch Bezeichnungen wie Cash Machine, Money Machine, Cashpoint, Cashline oder bauartbezogen Hole in the Wall („Loch in der Wand“). 
+Im französischen Sprachraum werden die Automaten Guichet Automatique Bancaire (GAB) oder Distributeur Automatique de Billets (DAB) genannt. 
+Geldautomaten werden unterteilt in 
+Ausgabeautomaten
+Geldeinzahlungsautomaten
+Kombinationsgeräte: beinhalten beide Funktionen, bei der „Cash-Recycling“-Variante (CRS) kann eingezahltes Geld selbst wieder durch den Automaten an Dritte ausgezahlt werden
+[Quelle:Wikipedia]
